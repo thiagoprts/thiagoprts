@@ -1,6 +1,7 @@
 <h1 align="center">Hello 👋, I'm Thiago Prates</h1>
 <h3 align="center">💻 About me</h3>
-a beginner in programming, focused on learning web development
+<p> a beginner in programming, focused on learning web development </p>
+
 - 📚 I'm currently studying at colégio COTEMIG
 
 - 🌱 I’m currently learning **HTML, CSS** and **Javascript**
