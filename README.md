@@ -1,16 +1,15 @@
-### Hi there 👋
+<h1 align="center">Hello 👋, I'm Thiago Prates</h1>
+<h3 align="center">💻 About me</h3>
+a beginner in programming, focused on learning web development
+- 📚 I'm currently studying at colégio COTEMIG
 
-<!--
-**Thiago-Prates/Thiago-Prates** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌱 I’m currently learning **HTML, CSS** and **Javascript**
 
-Here are some ideas to get you started:
+- 📫 How to reach me **thipratesdp@gmail.com**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+<a href="https://linkedin.com/in/thiagoprts" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Thiago-Prates" height="25" width="25" /></a>
+<a href="https://fb.com/thiago.prts" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="Thiago-Prates" height="25" width="25" /></a>
+<a href="https://www.instagram.com/thiago_prts/" target="blank"> <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="Thiago-Prates" height="25" width="25" /></a>
+</p>
+
