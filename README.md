@@ -1,6 +1,7 @@
 <h1 align="center">Hello 👋, I'm Thiago Prates</h1>
 <h3>💻 About me</h3>
 
+
 - 📚 I'm currently studying at colégio COTEMIG
 
 - 🌱 I’m currently learning **HTML, CSS** and **Javascript**
