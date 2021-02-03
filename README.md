@@ -4,7 +4,7 @@
 
 - 📚 I'm currently studying at colégio COTEMIG
 
-- 🌱 I’m currently learning **HTML, CSS** and **Javascript**
+- 🌱 I’m currently learning **HTML, CSS** and **PHP**
 
 - 📫 How to reach me **thipratesdp@gmail.com**
 
