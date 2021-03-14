@@ -1,16 +1,16 @@
-<h1 align="center">Hello 👋, I'm Thiago Prates</h1>
-<h3>💻 About me</h3>
+# Hello 👋, I'm Thiago Prates =)
 
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/Thiago-Prates)](https://github.com/Thiago-Prates)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thiagoprts/)](https://www.linkedin.com/in/thiagoprts/)
 
-- 📚 I'm currently studying at colégio COTEMIG
+### 💻 About me
 
-- 🌱 I’m currently learning **HTML, CSS** and **PHP**
+I'm a Front-end Developer focused on helping people and learning new technologies.
+
+- 📚 I'm currently studying at colégio COTEMIG - FLORESTA
+
+- 🌱 I’m currently learning **HTML, CSS, JS** and **PHP**
 
 - 📫 How to reach me **thipratesdp@gmail.com**
 
-<p align="center">
-<a href="https://linkedin.com/in/thiagoprts" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Thiago-Prates" height="25" width="25" /></a>
-<a href="https://fb.com/thiago.prts" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="Thiago-Prates" height="25" width="25" /></a>
-<a href="https://www.instagram.com/thiago_prts/" target="blank"> <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="Thiago-Prates" height="25" width="25" /></a>
-</p>
 
