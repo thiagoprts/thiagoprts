@@ -10,6 +10,8 @@ I'm a Front-end Developer focused on helping people and learning new technologie
 
 - 🌱 I’m currently learning **HTML, CSS, JS** and **PHP**
 
+- 🌍 Belo Horizonte - MG
+
 - 📫 How to reach me : 
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thiagoprts/)](https://www.linkedin.com/in/thiagoprts/)
