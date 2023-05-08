@@ -4,10 +4,10 @@
 
 ### 💻 About me
 
-I'm a Front-end Developer focused on helping people and learning new technologies.
+I'm a Developer focused on helping people and learning new technologies.
 
-- 📚 I'm currently studying at **COTEMIG**
-- 🌱 I’m currently learning **HTML, CSS, JS** and **PHP**
+- 📚 I'm currently studying at **FACULDADE COTEMIG**.
+- 🌱 I’m currently learning **HTML, CSS, JS** for Front-End and **C#** and **Java** for Back-End.
 - 🗺️ Belo Horizonte - MG
 
 
