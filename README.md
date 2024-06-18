@@ -12,9 +12,9 @@ I'm a Developer focused on helping people and learning new technologies.
 
 
 <div align="center">
-  <a href="https://github.com/Thiago-Prates">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Thiago-Prates&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thiago-Prates&layout=compact&langs_count=7&theme=dracula"/>
+  <a href="https://github.com/thiagoprts">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thiagoprts&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagoprts&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
 <div style="display: inline_block"><br>
